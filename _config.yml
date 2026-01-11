@@ -1,0 +1,25 @@
+title: Prism Video Player
+description: High-performance native video player for Unity with HLS/DASH streaming support
+baseurl: ""
+url: "https://prism.teamyoopi.dev"
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
