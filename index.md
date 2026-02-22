@@ -28,6 +28,7 @@ High-performance native video player for Unity with HLS/DASH streaming support.
 | [Plugin API](api/) | Developing decoder and resolver plugins |
 | [Architecture](architecture/) | System design and component overview |
 | [Building](building/) | Build instructions for all platforms |
+| [Benchmarks](benchmarks/) | Performance comparison methodology and how to run |
 
 ## Getting Started
 
